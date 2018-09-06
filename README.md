@@ -1,2 +1,2 @@
 # resumev2
-added display:flex for section:first-fst-layout 
+added display:flex for section:fst-layout 
